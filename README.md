@@ -1,2 +1,8 @@
-# atesbot
-Ateş Bot Altyapı
+# ATES BOT ALTYAPI
+__
+
+ALTYAPI ASWLAHT SUNUCUSUNA AİTTİR ! 
+KODLARIN BULUNDUĞU YER ; 
+https://discord.gg/763pQpN
+
+DESTEK OLMAK İÇİN DİSCORD SUNUCUMUZA GELEBİLİRSİNİZ ! 
